@@ -48,4 +48,5 @@ def process_image(image_path):
     else:
         print("Error: Unable to read the image.")
 
-process_image('IMG_3841.jpg')
+# process_image('IMG_3841.jpg')
+process_image('/home/jude/Downloads/WT-outside-color-SQ-20k.jpg.webp')
