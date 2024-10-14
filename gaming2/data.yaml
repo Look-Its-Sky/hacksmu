@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 1
+names: ['symbol_of_access']
+
+roboflow:
+  workspace: symbol-of-access
+  project: mxi
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/symbol-of-access/mxi/dataset/2
